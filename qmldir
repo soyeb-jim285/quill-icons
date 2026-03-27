@@ -19,7 +19,10 @@ IconClipboard 1.0 IconClipboard.qml
 IconClock 1.0 IconClock.qml
 IconCloud 1.0 IconCloud.qml
 IconCoffee 1.0 IconCoffee.qml
+IconDownload 1.0 IconDownload.qml
 IconEthernet 1.0 IconEthernet.qml
+IconFileText 1.0 IconFileText.qml
+IconFolder 1.0 IconFolder.qml
 IconEyeOff 1.0 IconEyeOff.qml
 IconEye 1.0 IconEye.qml
 IconGrid 1.0 IconGrid.qml
@@ -31,7 +34,9 @@ IconList 1.0 IconList.qml
 IconLockOpen 1.0 IconLockOpen.qml
 IconLock 1.0 IconLock.qml
 IconLogOut 1.0 IconLogOut.qml
+IconMonitor 1.0 IconMonitor.qml
 IconMoon 1.0 IconMoon.qml
+IconMusic 1.0 IconMusic.qml
 IconPalette 1.0 IconPalette.qml
 IconPanelTop 1.0 IconPanelTop.qml
 IconPause 1.0 IconPause.qml
@@ -50,6 +55,7 @@ IconTriangleAlert 1.0 IconTriangleAlert.qml
 IconUndo 1.0 IconUndo.qml
 IconUnlink 1.0 IconUnlink.qml
 IconUser 1.0 IconUser.qml
+IconVideo 1.0 IconVideo.qml
 IconVolume1 1.0 IconVolume1.qml
 IconVolume2 1.0 IconVolume2.qml
 IconVolume 1.0 IconVolume.qml
