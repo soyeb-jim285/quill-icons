@@ -26,6 +26,7 @@ IconEthernet 1.0 IconEthernet.qml
 IconExternalLink 1.0 IconExternalLink.qml
 IconFileText 1.0 IconFileText.qml
 IconFolder 1.0 IconFolder.qml
+IconFolderArchive 1.0 IconFolderArchive.qml
 IconFolderPen 1.0 IconFolderPen.qml
 IconEyeOff 1.0 IconEyeOff.qml
 IconEye 1.0 IconEye.qml
@@ -46,6 +47,7 @@ IconPanelTop 1.0 IconPanelTop.qml
 IconPause 1.0 IconPause.qml
 IconPlay 1.0 IconPlay.qml
 IconPlus 1.0 IconPlus.qml
+IconPackageOpen 1.0 IconPackageOpen.qml
 IconPin 1.0 IconPin.qml
 IconPinOff 1.0 IconPinOff.qml
 IconPower 1.0 IconPower.qml
