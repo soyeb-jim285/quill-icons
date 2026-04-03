@@ -8,7 +8,7 @@ Shape {
     property real strokeWidth: Math.max(1, size / 12)
     width: size; height: size
     clip: false
-    layer.enabled: visible; layer.smooth: true
+    preferredRendererType: Shape.CurveRenderer
 
     ShapePath {
         fillColor: root.color; strokeColor: "transparent"

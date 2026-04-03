@@ -12,7 +12,7 @@ Shape {
     property int signal: 100
     width: size; height: size
     clip: false
-    layer.enabled: visible; layer.smooth: true
+    preferredRendererType: Shape.CurveRenderer
 
     // Dot (always shown)
     ShapePath {
