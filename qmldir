@@ -16,6 +16,7 @@ IconChevronLeft 1.0 IconChevronLeft.qml
 IconChevronRight 1.0 IconChevronRight.qml
 IconChevronUp 1.0 IconChevronUp.qml
 IconClipboard 1.0 IconClipboard.qml
+IconColumns 1.0 IconColumns.qml
 IconClock 1.0 IconClock.qml
 IconCopy 1.0 IconCopy.qml
 IconCopyPath 1.0 IconCopyPath.qml
