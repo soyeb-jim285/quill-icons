@@ -59,6 +59,7 @@ IconSettings 1.0 IconSettings.qml
 IconSkipBack 1.0 IconSkipBack.qml
 IconSkipForward 1.0 IconSkipForward.qml
 IconSlidersH 1.0 IconSlidersH.qml
+IconStar 1.0 IconStar.qml
 IconSun 1.0 IconSun.qml
 IconTerminal 1.0 IconTerminal.qml
 IconTrash 1.0 IconTrash.qml
