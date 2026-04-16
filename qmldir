@@ -8,6 +8,7 @@ IconBell 1.0 IconBell.qml
 IconBluetoothConnected 1.0 IconBluetoothConnected.qml
 IconBluetoothOff 1.0 IconBluetoothOff.qml
 IconBluetooth 1.0 IconBluetooth.qml
+IconCalculator 1.0 IconCalculator.qml
 IconCalendar 1.0 IconCalendar.qml
 IconCamera 1.0 IconCamera.qml
 IconCheck 1.0 IconCheck.qml
@@ -55,6 +56,7 @@ IconPower 1.0 IconPower.qml
 IconRefreshCw 1.0 IconRefreshCw.qml
 IconRocket 1.0 IconRocket.qml
 IconScissors 1.0 IconScissors.qml
+IconSearch 1.0 IconSearch.qml
 IconSettings 1.0 IconSettings.qml
 IconSkipBack 1.0 IconSkipBack.qml
 IconSkipForward 1.0 IconSkipForward.qml
