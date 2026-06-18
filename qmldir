@@ -52,6 +52,8 @@ IconLock 1.0 IconLock.qml
 IconLockOpen 1.0 IconLockOpen.qml
 IconLogOut 1.0 IconLogOut.qml
 IconMaximize 1.0 IconMaximize.qml
+IconMicOff 1.0 IconMicOff.qml
+IconMic 1.0 IconMic.qml
 IconMonitor 1.0 IconMonitor.qml
 IconMoon 1.0 IconMoon.qml
 IconMusic 1.0 IconMusic.qml
